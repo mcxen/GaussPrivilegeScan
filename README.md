@@ -2,6 +2,8 @@
 
 使用postgresql驱动和MyBatis连接OpenGauss，识别数据库三权分立的管理员权限，识别用户或角色对数据库和表格的操作权限，识别所有用户列表。
 
+![](https://cdn.jsdelivr.net/gh/52chen/imagebed2023@main/image-20230918165423593.png)
+
 **使用方法**
 
 通过git下载源码
@@ -19,7 +21,7 @@
 - Maven 
 - mybatis-plus 3.5.3
 
-
+- LayUI
 
 ### 2.1 工程布局
 
